@@ -1,8 +1,11 @@
 {
-  "name" : "connect-auth",
+  "name" : "connect-auth-pumpio",
   "description" : "Middleware for Connect (node.js) for handling your authentication needs.",
-  "version" : "0.6.0",
+  "version" : "0.6.0+pumpio",
   "author" : "Ciaran Jessup <ciaranj@gmail.com>",
+  "contributors" : [
+    "Alex Jordan <alex@strugee.net>"
+  ],
   "engines" : {"node" : ">=0.8.0"}, 
   "main" : "lib/index.js",
   "directories" : { "lib" : "./lib" },
@@ -13,6 +16,6 @@
   },
   "repository" : {
       "type":"git"
-    , "url":"http://github.com/ciaranj/connect-auth.git"
+    , "url":"http://github.com/e14n/connect-auth.git"
   }
 }
