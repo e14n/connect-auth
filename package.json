@@ -6,6 +6,7 @@
   "contributors" : [
     "Alex Jordan <alex@strugee.net>"
   ],
+  "license" : "MIT",
   "engines" : {"node" : ">=0.8.0"}, 
   "main" : "lib/index.js",
   "directories" : { "lib" : "./lib" },
