@@ -4,7 +4,7 @@
   "version" : "0.6.0+pumpio",
   "author" : "Ciaran Jessup <ciaranj@gmail.com>",
   "contributors" : [
-    "Alex Jordan <alex@strugee.net>"
+    "AJ Jordan <alex@strugee.net>"
   ],
   "license" : "MIT",
   "engines" : {"node" : ">=0.8.0"}, 
