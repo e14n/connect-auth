@@ -1,7 +1,7 @@
 {
   "name" : "connect-auth-pumpio",
   "description" : "Middleware for Connect (node.js) for handling your authentication needs.",
-  "version" : "0.6.0+pumpio",
+  "version" : "0.6.1+pumpio",
   "author" : "Ciaran Jessup <ciaranj@gmail.com>",
   "contributors" : [
     "AJ Jordan <alex@strugee.net>"
